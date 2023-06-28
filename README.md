@@ -1,3 +1,7 @@
+I cloned this on 6/27/23. Be careful ... make sure these match the notebooks from the course.
+R- 
+==========
+
 # ChatGPT Prompt Engineering for Developers
 Jupyter code notebooks of "ChatGPT Prompt Engineering for Developers" by DeepLearning.AI and OpenAI.
 
